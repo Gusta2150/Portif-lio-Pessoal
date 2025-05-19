@@ -1,4 +1,13 @@
-/* Estilo global */
+header {
+    background-color: #051e3b;
+    padding: 10px 5%;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
 body {
     background-color: #0a3361;
     color: #ffffff;
@@ -67,8 +76,9 @@ footer {
     background-color: #051e3b;
     padding: 30px 10%;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
     color: #cccccc;
+    border-radius: 30px;
 }
 
 footer h2 {
